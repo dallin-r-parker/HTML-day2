@@ -1,0 +1,39 @@
+.menu-slide {
+  position: absolute;
+  height: 100vh;
+  width: 50%;
+  background: #2CD3C8;
+  transform: translateX(-100%);
+}
+
+.images-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.image {
+
+}
+
+header h1 {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+
+}
+
+.right-footer button {
+  color: white;
+  background: #2CD3C8;
+  padding: 7px 0;
+  width: 75%;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+
+}
